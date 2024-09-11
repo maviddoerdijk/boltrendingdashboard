@@ -1,0 +1,57 @@
+{
+    "distribution_centers": [
+      {"lat": 52.0907, "lon": 5.1214, "name": "Utrecht DC"},
+      {"lat": 52.3676, "lon": 4.9041, "name": "Amsterdam DC"},
+      {"lat": 51.9244, "lon": 4.4777, "name": "Rotterdam DC"},
+      {"lat": 51.4416, "lon": 5.4697, "name": "Eindhoven DC"},
+      {"lat": 50.8514, "lon": 5.6909, "name": "Maastricht DC"}
+    ],
+    "top_search_terms": [
+      {"term": "Smartphone", "volume": 18250},
+      {"term": "Laptop", "volume": 15700},
+      {"term": "Koptelefoon", "volume": 14300},
+      {"term": "Boeken", "volume": 13800},
+      {"term": "Kleding", "volume": 13500},
+      {"term": "Speelgoed", "volume": 12200},
+      {"term": "Sportartikelen", "volume": 11800},
+      {"term": "Keukenapparatuur", "volume": 11300},
+      {"term": "TV", "volume": 10700},
+      {"term": "Huisdieren", "volume": 10400}
+    ],
+    "seasonal_search_volume": [
+      {"month": "Jan", "volume": 8500},
+      {"month": "Feb", "volume": 8100},
+      {"month": "Mar", "volume": 8700},
+      {"month": "Apr", "volume": 10500},
+      {"month": "May", "volume": 12800},
+      {"month": "Jun", "volume": 14300},
+      {"month": "Jul", "volume": 13700},
+      {"month": "Aug", "volume": 13100},
+      {"month": "Sep", "volume": 15700},
+      {"month": "Oct", "volume": 18300},
+      {"month": "Nov", "volume": 20500},
+      {"month": "Dec", "volume": 22300}
+    ],
+    "product_margins": [
+      {"product": "Bizoule Smartwatch Beleza - Smartwatch Dames Rosé-Goud - 1.1 AMOLED Touchscreen - 40mm", "bol_price": 89, "alibaba_price": 21},
+      {"product": "Oortjes Bluetooth Pro", "bol_price": 59, "alibaba_price": 15},
+      {"product": "Tablet Xtreme 10.1", "bol_price": 129, "alibaba_price": 49},
+      {"product": "Noise Cancelling Koptelefoon", "bol_price": 199, "alibaba_price": 80},
+      {"product": "Drone 4K HD", "bol_price": 499, "alibaba_price": 150}
+    ],
+    "top_products_no_stock": [
+      {"product": "Laptop Ultra X", "revenue": 18200},
+      {"product": "Smartphone Galaxy Z", "revenue": 17300},
+      {"product": "Speelgoed Supercar", "revenue": 15000},
+      {"product": "Koffiezetapparaat Pro", "revenue": 14500},
+      {"product": "Koptelefoon SilentBass", "revenue": 13800}
+    ],
+    "longest_delivery_times": [
+      {"category": "Elektronica", "delivery_time": 10},
+      {"category": "Meubels", "delivery_time": 14},
+      {"category": "Kleding", "delivery_time": 7},
+      {"category": "Boeken", "delivery_time": 3},
+      {"category": "Sportartikelen", "delivery_time": 9}
+    ]
+  }
+  
