@@ -17,7 +17,7 @@ def load_data():
     
     
     
-    
+     
     return {
         "distribution_centers": distribution_centers_df,
         "top_search_terms": top_search_terms_df,
